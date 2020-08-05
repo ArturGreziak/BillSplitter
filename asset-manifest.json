@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/billspitter/static/css/main.39706f52.chunk.css",
-    "main.js": "/billspitter/static/js/main.d8d46a3a.chunk.js",
-    "main.js.map": "/billspitter/static/js/main.d8d46a3a.chunk.js.map",
-    "runtime-main.js": "/billspitter/static/js/runtime-main.88deec74.js",
-    "runtime-main.js.map": "/billspitter/static/js/runtime-main.88deec74.js.map",
-    "static/js/2.dcfd4986.chunk.js": "/billspitter/static/js/2.dcfd4986.chunk.js",
-    "static/js/2.dcfd4986.chunk.js.map": "/billspitter/static/js/2.dcfd4986.chunk.js.map",
-    "index.html": "/billspitter/index.html",
-    "precache-manifest.eabee544e2388734a9da342f5a6ef61b.js": "/billspitter/precache-manifest.eabee544e2388734a9da342f5a6ef61b.js",
-    "service-worker.js": "/billspitter/service-worker.js",
-    "static/css/main.39706f52.chunk.css.map": "/billspitter/static/css/main.39706f52.chunk.css.map",
-    "static/js/2.dcfd4986.chunk.js.LICENSE.txt": "/billspitter/static/js/2.dcfd4986.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/billspitter/static/media/bg.e6b6bc97.jpg"
+    "main.css": "/billsplitter/static/css/main.3be7570b.chunk.css",
+    "main.js": "/billsplitter/static/js/main.89dd2526.chunk.js",
+    "main.js.map": "/billsplitter/static/js/main.89dd2526.chunk.js.map",
+    "runtime-main.js": "/billsplitter/static/js/runtime-main.887c215f.js",
+    "runtime-main.js.map": "/billsplitter/static/js/runtime-main.887c215f.js.map",
+    "static/js/2.dcfd4986.chunk.js": "/billsplitter/static/js/2.dcfd4986.chunk.js",
+    "static/js/2.dcfd4986.chunk.js.map": "/billsplitter/static/js/2.dcfd4986.chunk.js.map",
+    "index.html": "/billsplitter/index.html",
+    "precache-manifest.070df79e1591f48e5a162dbe9623eda4.js": "/billsplitter/precache-manifest.070df79e1591f48e5a162dbe9623eda4.js",
+    "service-worker.js": "/billsplitter/service-worker.js",
+    "static/css/main.3be7570b.chunk.css.map": "/billsplitter/static/css/main.3be7570b.chunk.css.map",
+    "static/js/2.dcfd4986.chunk.js.LICENSE.txt": "/billsplitter/static/js/2.dcfd4986.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/billsplitter/static/media/bg.e6b6bc97.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88deec74.js",
+    "static/js/runtime-main.887c215f.js",
     "static/js/2.dcfd4986.chunk.js",
-    "static/css/main.39706f52.chunk.css",
-    "static/js/main.d8d46a3a.chunk.js"
+    "static/css/main.3be7570b.chunk.css",
+    "static/js/main.89dd2526.chunk.js"
   ]
 }
