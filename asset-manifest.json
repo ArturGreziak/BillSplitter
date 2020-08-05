@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/billspitter/static/css/main.39706f52.chunk.css",
+    "main.js": "/billspitter/static/js/main.d8d46a3a.chunk.js",
+    "main.js.map": "/billspitter/static/js/main.d8d46a3a.chunk.js.map",
+    "runtime-main.js": "/billspitter/static/js/runtime-main.88deec74.js",
+    "runtime-main.js.map": "/billspitter/static/js/runtime-main.88deec74.js.map",
+    "static/js/2.dcfd4986.chunk.js": "/billspitter/static/js/2.dcfd4986.chunk.js",
+    "static/js/2.dcfd4986.chunk.js.map": "/billspitter/static/js/2.dcfd4986.chunk.js.map",
+    "index.html": "/billspitter/index.html",
+    "precache-manifest.eabee544e2388734a9da342f5a6ef61b.js": "/billspitter/precache-manifest.eabee544e2388734a9da342f5a6ef61b.js",
+    "service-worker.js": "/billspitter/service-worker.js",
+    "static/css/main.39706f52.chunk.css.map": "/billspitter/static/css/main.39706f52.chunk.css.map",
+    "static/js/2.dcfd4986.chunk.js.LICENSE.txt": "/billspitter/static/js/2.dcfd4986.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/billspitter/static/media/bg.e6b6bc97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88deec74.js",
+    "static/js/2.dcfd4986.chunk.js",
+    "static/css/main.39706f52.chunk.css",
+    "static/js/main.d8d46a3a.chunk.js"
+  ]
+}
